@@ -1,0 +1,6 @@
+# File sinh ra khi build bản Java (run_kmer_java.sh tự tạo lại)
+part2_kmer/build/
+part2_kmer/*.jar
+
+__pycache__/
+*.pyc
